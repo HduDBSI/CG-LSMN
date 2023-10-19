@@ -28,12 +28,18 @@
 
 
 feature envy merge:true 1808
+
 feature envy merge:false 2843
 
 feature envy committer-date:>2021-01-01             641  checked
+
 feature envy committer-date:2020-08-06..2021-01-02  782  checked
+
 feature envy committer-date:2020-03-01..2020-08-07  936  checked
+
 feature envy committer-date:2019-01-01..2020-03-02  595  checked
+
 feature envy committer-date:2015-01-01..2019-01-02  925  checked
+
 feature envy committer-date:<2015-01-02             812  checked
          
